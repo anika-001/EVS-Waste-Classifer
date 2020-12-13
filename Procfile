@@ -1,0 +1,1 @@
+web: gunicorn classify_original:Plastic_Detector

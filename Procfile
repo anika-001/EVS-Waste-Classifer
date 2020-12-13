@@ -1,1 +1,1 @@
-web: gunicorn classify_original:Plastic_Detector
+web: gunicorn classify_original:Waste_Classifier
